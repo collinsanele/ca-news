@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath corona corona.wsgi
+web: gunicorn --pythonpath news news.wsgi
